@@ -17,4 +17,4 @@ calculate fields with DAX measures. Finally, created an interactive Dashboard fo
 ![Image](https://github.com/renukadhule/Coporate_Campus_Hiring_Analysis/blob/main/Snapshots/First.png)<br><br>
 ![Image](https://github.com/renukadhule/Coporate_Campus_Hiring_Analysis/blob/main/Snapshots/Second.png)<br><br>
 ![Image](https://github.com/renukadhule/Coporate_Campus_Hiring_Analysis/blob/main/Snapshots/Third.png)<br><br>
-![Image](https://github.com/renukadhule/Coporate_Campus_Hiring_Analysis/blob/main/Snapshots/Fourth.png.png)
+![Image](https://github.com/renukadhule/Coporate_Campus_Hiring_Analysis/blob/main/Snapshots/Fourth.png)
