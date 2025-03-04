@@ -14,7 +14,7 @@ calculate fields with DAX measures. Finally, created an interactive Dashboard fo
 
 
 ## Dashboard
-![Image](https://github.com/renukadhule/Adventure_Works_PowerBI_Analysis/blob/main/Images/First.png)<br><br>
-![Image](https://github.com/renukadhule/Adventure_Works_PowerBI_Analysis/blob/main/Images/Second.png)<br><br>
-![Image](https://github.com/renukadhule/Adventure_Works_PowerBI_Analysis/blob/main/Images/Third.png)<br><br>
-![Image](https://github.com/renukadhule/Adventure_Works_PowerBI_Analysis/blob/main/Images/Fourth.png)
+![Image](https://github.com/renukadhule/Coporate_Campus_Hiring_Analysis/blob/main/Snapshots/First.png)<br><br>
+![Image](https://github.com/renukadhule/Coporate_Campus_Hiring_Analysis/blob/main/Snapshots/Second.png)<br><br>
+![Image](https://github.com/renukadhule/Coporate_Campus_Hiring_Analysis/blob/main/Snapshots/Third.png)<br><br>
+![Image](https://github.com/renukadhule/Coporate_Campus_Hiring_Analysis/blob/main/Snapshots/Fourth.png.png)
