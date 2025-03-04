@@ -11,16 +11,16 @@ calculate fields with DAX measures. Finally, created an interactive Dashboard fo
 **Excel** – For data cleaning and preparation
 
 ## Key Insights
-Total Jobs & Companies: The dataset has 200 jobs from 21 companies in 9 industries.
-Top Hiring Company: ICICI Bank has the most job openings (15), followed by Capgemini and TCS (14 each).
-Most Common Job Roles:
-Software Engineer – 22 jobs
-Business Analyst – 18 jobs
-Investment Analyst & Software Tester – 15 jobs each
-Highest Paying Industry: Healthcare has the best average salary (8.5), while Banking has the lowest (7.5).
-How Companies Hire: Most jobs come from Company Websites (26.5%) and Job Boards (26%).
-Highest Paying Job Role: Cloud Engineers earn the most (8.48), while Software Engineers earn the least (6.75).
-Top Hiring Cities: Mumbai, Bangalore, Delhi, Hyderabad, and Pune have the most job openings.
+Total Jobs & Companies: The dataset has 200 jobs from 21 companies in 9 industries.<br>
+Top Hiring Company: ICICI Bank has the most job openings (15), followed by Capgemini and TCS (14 each).<br>
+**Most Common Job Roles:** <br>
+Software Engineer – 22 jobs<br>
+Business Analyst – 18 jobs<br>
+Investment Analyst & Software Tester – 15 jobs each<br>
+Highest Paying Industry: Healthcare has the best average salary (8.5), while Banking has the lowest (7.5).<br>
+How Companies Hire: Most jobs come from Company Websites (26.5%) and Job Boards (26%).<br>
+Highest Paying Job Role: Cloud Engineers earn the most (8.48), while Software Engineers earn the least (6.75).<br>
+Top Hiring Cities: Mumbai, Bangalore, Delhi, Hyderabad, and Pune have the most job openings.<br>
 
 
 
