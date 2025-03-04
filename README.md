@@ -1,7 +1,7 @@
 # Coporate Campus Hiring Analysis
 
 ## Project Overview
-This project analyzes campus recruitment trends using Power BI, SQL, and Excel. It provides insights into job roles, industries, salaries, and hiring sources. The interactive dashboard helps students and recruiters explore job market trends effectively.
+This project analyzes campus recruitment trends using Power BI and Excel. It provides insights into job roles, industries, salaries, and hiring sources. The interactive dashboard helps students and recruiters explore job market trends effectively.
 calculate fields with DAX measures. Finally, created an interactive Dashboard for data visualization of the performance of the company.
 
 <img src = "https://github.com/renukadhule/Coporate_Campus_Hiring_Analysis/blob/main/Campus.jpeg" width = "990" height = "450">
