@@ -1,4 +1,4 @@
-# Coporate_Campus_Hiring_Analysis
+# Coporate Campus Hiring Analysis
 
 ## Project Overview
 AdventureWorks Database is a Microsoft product sample for an online transaction processing (OLTP) database. The AdventureWorks Database supports a fictitious, multinational manufacturing company called Adventure Works Cycles. Analyzed data of this fictitious company by connecting and shaping data in Power Query, built a relational model and added 
